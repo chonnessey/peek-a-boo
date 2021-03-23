@@ -1,12 +1,13 @@
-#walrus-showing {
+#walrus1-showing, #walrus2-showing, #walrus3-showing  {
   display: none;
 }
 
-.clickable { 
+.clickable1, .clickable2, .clickable3 { 
   cursor: pointer;
   color: #0088cc;
 }
 
-.clickable:hover {
+.clickable1:hover, .clickable2:hover, .clickable3:hover {
   text-decoration: underline;
 }
+
